@@ -1,0 +1,6 @@
+#nodejs Module 1
+
+## to exexute
+
+npm i
+node csv2json.js
